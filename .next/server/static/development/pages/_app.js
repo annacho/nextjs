@@ -88,7 +88,7 @@ module.exports =
 /******/
 /******/
 /******/ 	// Load entry module and return exports
-/******/ 	return __webpack_require__(__webpack_require__.s = 1);
+/******/ 	return __webpack_require__(__webpack_require__.s = 0);
 /******/ })
 /************************************************************************/
 /******/ ({
@@ -105,7 +105,7 @@ module.exports = __webpack_require__(/*! next/app */ "next/app")
 
 /***/ }),
 
-/***/ 1:
+/***/ 0:
 /*!****************************************************!*\
   !*** multi ./node_modules/next/dist/pages/_app.js ***!
   \****************************************************/
